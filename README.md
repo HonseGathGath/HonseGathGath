@@ -18,13 +18,6 @@ something faster than it has any right to be.
 ![Verilog](https://img.shields.io/badge/Verilog-red?style=flat-square)
 ![FPGA](https://img.shields.io/badge/FPGA-black?style=flat-square)
 
-###  Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=HonseGathGath&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HonseGathGath&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HonseGathGath&theme=tokyonight&hide_border=true" width="60%" />
-
 ###  Elsewhere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghaith-lassoued-41a841287/)
