@@ -10,18 +10,22 @@ underneath the abstraction. Most of what I build lives somewhere between hardwar
 and software: FPGAs, low-level C, and whatever breaks when you try to make
 something faster than it has any right to be.
 
+> I'd rather understand why something works than just that it does.
+
 ###  Stack
 
-![C](https://skillicons.dev/icons?i=c,cpp,python,linux,git,bash,neovim)
-&nbsp;
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-red?style=flat-square)
-![Verilog](https://img.shields.io/badge/Verilog-red?style=flat-square)
-![FPGA](https://img.shields.io/badge/FPGA-black?style=flat-square)
+![](https://skillicons.dev/icons?i=c,cpp,python,linux,git,bash,neovim)
+
+ SystemVerilog &nbsp;·&nbsp;  Verilog &nbsp;·&nbsp;  FPGA
+
+###  Featured
+
+- **[SystemVerilogPractise](https://github.com/HonseGathGath/SystemVerilogPractise)** — working through comp-arch fundamentals and HDLBits in SystemVerilog
+- **[Blog](https://honsegathgath.github.io/workbench/)** — notes on hardware, systems, and whatever I'm currently debugging
 
 ###  Elsewhere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghaith-lassoued-41a841287/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HonseGathGath)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=rss&logoColor=white)](https://honsegathgath.github.io/workbench/)
-
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lassouedghaith15@gmail.com)
